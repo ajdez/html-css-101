@@ -42,8 +42,10 @@ body{
 }
 
 .social-icons{
+  /*justify-content: center;*/
   justify-content: center;
   display: flex;
+  padding-left: 0;
 }
 
 .social-icon{
