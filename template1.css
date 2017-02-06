@@ -1,0 +1,79 @@
+header{
+  background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThneJOcK5lDuYykOCxQSayZfkb9qskzokz1PRUXf7erUYSf2v8Aw");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.title-content{
+  padding: 100px 50px;
+  width: 30%;
+
+}
+.title{
+  font-family:Copperplate Gothic Light;
+  color: white;
+}
+.title-content p {
+  color: white;
+}
+
+.display-icons{
+  display:flex;
+  list-style:none;
+}
+.display-icons li{
+  background : black;
+  padding: 0.7em;
+  color:white;
+  border-radius: 50px;
+  margin: 0 10px;
+}
+
+.options{
+  display: flex;
+  justify-content: center;
+}
+
+.options div{
+  text-align:center;
+  margin: 30px 30px;
+}
+
+.options i{
+  font-size: 1.5em;
+  color:white;
+  background: rgb(10, 200, 10);
+  border-radius: 50px;
+  padding: 0.4em;
+}
+.options h4{
+  margin-top: 4px;
+  margin-bottom: 3px;
+}
+.options p{
+  margin-top: 4px;
+  font-size: .8em;
+}
+.info{
+  background: #D8D6DB;
+  display: flex;
+}
+.updates{
+  width: 50%;
+  padding: 15px 9%;
+}
+.updates p{
+  color: #767577;
+}
+.updates form input{
+  border-radius: 5px;
+}
+.updates form button{
+  color:white;
+  background:rgb(10, 200, 10);
+  border-radius: 25px;
+  padding: 3px 5px;
+}
+.video{
+  width:50%;
+  padding: 15px 9%;
+}
